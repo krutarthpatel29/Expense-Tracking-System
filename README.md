@@ -23,6 +23,13 @@ A simple and efficient expense management system with a **Streamlit** frontend a
 
 ## ⚙️ Setup Instructions 
 
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/yourusername/expense-management-system.git
+cd expense-management-system
+
+### 2️⃣ Install Dependencies
+pip install -r requirements.txt
 
 ## Setup Instructions
 
