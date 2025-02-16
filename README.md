@@ -28,11 +28,10 @@ A simple and efficient expense management system with a **Streamlit** frontend a
 git clone https://github.com/yourusername/expense-management-system.git
 cd expense-management-system
 
-### 
+### 2️⃣ Install Dependencies :
+  ```bash
+   pip install -r requirements.txt
 
-2. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt```
 
 
 3. **Run the FastAPI server:**:   
