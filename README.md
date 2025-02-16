@@ -43,3 +43,10 @@ uvicorn server.server:app --reload
 ```bash
 streamlit run frontend/app.py
 ```
+
+## 🛠️ Tech Stack
+
+- **Backend**: FastAPI
+- **Frontend**: Streamlit
+- **Database**: MySQL
+- **Testing**: Pytest
