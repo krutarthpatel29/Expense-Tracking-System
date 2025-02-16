@@ -23,25 +23,22 @@ A simple and efficient expense management system with a **Streamlit** frontend a
 
 ## ⚙️ Setup Instructions 
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository:  
 ```bash
 git clone https://github.com/yourusername/expense-management-system.git
 cd expense-management-system
 
-### 2️⃣ Install Dependencies
-```commandline
-    pip install -r requirements.txt
-   ```
 
-1. **Install dependencies:**:   
+
+2. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
    ```
-1. **Run the FastAPI server:**:   
+3. **Run the FastAPI server:**:   
    ```commandline
     uvicorn server.server:app --reload
    ```
-1. **Run the Streamlit app:**:   
+4. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
    ```
