@@ -29,15 +29,10 @@ git clone https://github.com/yourusername/expense-management-system.git
 cd expense-management-system
 
 ### 2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+```commandline
+    pip install -r requirements.txt
    ```
+
 1. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
